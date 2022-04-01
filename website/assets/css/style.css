@@ -1,0 +1,53 @@
+body{
+    background: #BDBDBD;
+}
+
+html {
+	box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+.tagline {
+	background-color: green;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-image: url("https://fondosmil.com/fondo/15218.jpg");
+	background-repeat: round;
+	width: 700px;
+	height: 800px;
+}
+
+.h1tagline {
+	text-align: center;
+	align-items: center;
+	margin-top:100px;
+	background-color: white;
+	color: black;
+	width: 1200px;
+	font-size: 50px;
+}
+
+.h2tagline {
+	text-align: center;
+	align-items: center;
+	background-color: white;
+	color: black;
+	width: 1200px;
+	font-size: 30px;
+}
+.contact-header {
+    padding: 70px 70px 15px 70px;
+}
+.contact-form {
+    width: 70%;
+    margin-bottom: 50px;
+}
+.contact-form #textArea {
+    height: 100px;
+    text-align: start;
+}
