@@ -1,0 +1,42 @@
+body{
+    background: #BDBDBD;
+}
+
+html {
+	box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+.tagline {
+	background-color: green;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-image: url("https://www.todofondos.net/wp-content/uploads/edificios-de-la-ciudad-de-nueva-york-%E2%9D%A4-fondo-de-escritorio-de-4k-hd-para-4k-ultra-hd-1024x427.jpg");
+	background-repeat: round;
+	width: 700px;
+	height: 400px;
+}
+
+.h1tagline {
+	text-align: center;
+	align-items: center;
+	margin-top: 40px;
+	background-color: white;
+	color: black;
+	width: 1200px;
+	font-size: 50px;
+}
+
+.h2tagline {
+	text-align: center;
+	align-items: center;
+	background-color: white;
+	color: black;
+	width: 1200px;
+	font-size: 30px;
+}
