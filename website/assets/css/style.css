@@ -10,14 +10,13 @@ html {
 }
 
 .tagline {
-	background-color: green;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	background-image: url("https://fondosmil.com/fondo/15218.jpg");
 	background-repeat: round;
 	width: 700px;
-	height: 800px;
+	height: 600px;
 }
 
 .h1tagline {
